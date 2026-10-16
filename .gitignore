@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Private or large sensor data
+# Uncomment the next line if Dataset contains recordings you do not want to publish
+# Dataset/*.csv
+
+# Model training checkpoints
+checkpoints/
+runs/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
